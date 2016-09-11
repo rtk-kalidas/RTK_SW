@@ -4,7 +4,7 @@
 
 main()
 {
-    printf("Hello Kalidas . . . auto run after git update");
-    printf("Try again ...");
+    printf("Hello Kalidas . . . auto run after git update\n");
+    printf("\nTry again ...");
     return;
 }
