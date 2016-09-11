@@ -4,6 +4,6 @@
 
 main()
 {
-    printf("Hello Kalidas . . .");
+    printf("Hello Kalidas . . . auto run after git update");
     return;
 }
