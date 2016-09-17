@@ -4,7 +4,7 @@
 
 main()
 {
-    printf("Hello Kalidas . . .  from Linux PC\n");
+    printf("Hello Kalidas . . .  from Linux PC . . .\n");
     printf("\nTry again ...");
     return;
 }
